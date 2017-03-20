@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <phrase> = [ sil ] b ao iy  [ sil ] ;
